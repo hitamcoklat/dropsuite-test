@@ -27,5 +27,3 @@ This application tested on PHP Version 7. If you want to run this just clone thi
 git clone https://github.com/hitamcoklat/dropsuite-test.git
 ```
 and run on your local machine on **http://127.0.0.1/dropsuite-test** or **http://localhost/dropsuite-test**
-For production environments...
-
